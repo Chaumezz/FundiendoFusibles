@@ -1,8 +1,10 @@
 MINIHEX_2, hexapodo controlado por BT.
 
 
-Code for Arduino Mega or Mega Pro Mini by Francisco Carabaza.
-MINIHEX_2 modelo cinematico inverso con varios tipos de paso y movimientos estacionarios. Se añade el Smooth Bruton (que bueno!)
+Code for Arduino Mega or Mega Pro Mini por Francisco Carabaza.
+
+MINIHEX_2 modelo cinematico inverso con varios tipos de paso y movimientos estacionarios. Se añade el Smooth Bruton (que bueno!).
+
 En la version de FundiendoFusibles se añade pan/tilt y pinzas en la cabeza.
 Se controla desde un telefono android con la APP BluetoothElectronics, y el dashboard .keuwl adjunto.
 
